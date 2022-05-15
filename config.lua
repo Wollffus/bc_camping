@@ -1,10 +1,8 @@
-
-
 Config = {}
 
 Config.Tent = {}
-Config.Tent.DistanceToInteract = 9.0 -- In Units
-Config.Tent.DistanceToSleepInBed = 1.5 -- In Units
+Config.Tent.DistanceToInteract = 9.0
+Config.Tent.DistanceToSleepInBed = 1.5
 Config.Campfire = {}
 Config.Campfire.DistanceToInteract = 3.0
 Config.PropsNearby = {
@@ -15,4 +13,5 @@ Config.PropsNearby = {
 		"P_CAMPFIRE01X_NOFIRE",
 		"p_bench_log01x",
 		"p_hitchingPost04x",
+		"p_campfirecombined03x",
 }
